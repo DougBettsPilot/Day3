@@ -1,0 +1,91 @@
+/*****************Header Row Section******************************/
+#headerRow.col-md-12 {
+  background-color:#c6c6ff;
+  padding:10px;
+  height:200px;
+  border:2px
+  solid black;
+}
+@media screen and (min-width : 375px) {
+#headerRow.col-md-12 {
+  background-color:#6666ff;
+}
+}
+@media screen and (min-width : 768px) {
+#headerRow.col-md-12 {
+  background-color:#0000ff;
+}
+}
+/*****************Nav Row Section******************************/
+#navRow.col-md-12 {
+  background-color:#c6ffc6;
+  padding:10px;
+  border:2px
+  solid black;
+}
+@media screen and (min-width : 375px) {
+#navRow.col-md-12 {
+  background-color:#00cf00;
+}
+}
+@media screen and (min-width : 768px) {
+#navRow.col-md-12 {
+  background-color:#009f00;
+}
+}
+/*****************Content Row Section******************************/
+#contentId.col-md-9 {
+  background-color:#ff9696;
+  padding:10px;
+  height:200px;
+  border:2px
+  solid black;
+}
+@media screen and (min-width : 375px) {
+#contentId.col-md-9 {
+  background-color:#ff3636;
+}
+}
+@media screen and (min-width : 768px) {
+#contentId.col-md-9 {
+  background-color:#9f0000;
+}
+}
+/*****************Aside Section*********************
+style="background-color:aqua; padding:10px; height:200px; border:2px solid black;">*********/
+#asideId.col-md-3 {
+  background-color:#b4ffff;
+  padding:10px;
+  height:200px;
+  border:2px
+  solid black;
+}
+@media screen and (min-width : 375px) {
+#asideId.col-md-3 {
+  background-color:#78ffff;
+}
+}
+@media screen and (min-width : 768px) {
+#asideId.col-md-3 {
+  background-color:#00e1e1;
+}
+}
+/*****************Promo Row Section*********************
+style="background-color:orange; padding:10px; height:200px; border:2px solid black;;">*********/
+#promoId.col-md-3 {
+  background-color:#ffc890;
+  padding:10px;
+  height:200px;
+  border:2px
+  solid black;
+}
+@media screen and (min-width : 375px) {
+#promoId.col-md-3 {
+  background-color:#ff9e3c;
+}
+}
+@media screen and (min-width : 768px) {
+#promoId.col-md-3 {
+  background-color:#c36200;
+}
+}
